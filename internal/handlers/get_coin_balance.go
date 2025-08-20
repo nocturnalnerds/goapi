@@ -6,7 +6,6 @@ import (
 
 	"github.com/nocturnalnerds/goapi/api"
 	"github.com/nocturnalnerds/goapi/internal/tools"
-	"github.com/nocturnalnerds/goapi/tools"
 
 	"github.com/gorilla/schema"
 	log "github.com/sirupsen/logrus"
